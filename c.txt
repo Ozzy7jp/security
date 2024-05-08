@@ -14,4 +14,4 @@ ThiS Notebook is about c & cpp.
 
 5/5 musical & restaurants
 
-
+5/8 this txt is written on nano editor

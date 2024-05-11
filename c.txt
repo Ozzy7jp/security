@@ -17,3 +17,5 @@ ThiS Notebook is about c & cpp.
 5/8 this txt is written on nano editor
 
 5/9 today!!
+
+5/11 tokyo university
